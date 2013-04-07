@@ -13,6 +13,8 @@ There'll be more details to come. I'm still figuring out how to get around githu
 
 Ahaaw.
 
-Current project members: \n
-https://github.com/kscanne \n
+Current project members:
+
+https://github.com/kscanne
+
 https://github.com/jpmontano
