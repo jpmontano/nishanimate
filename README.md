@@ -13,7 +13,6 @@ There'll be more details to come. I'm still figuring out how to get around githu
 
 Ahaaw.
 
-
 Current project members:
 
 https://github.com/kscanne
