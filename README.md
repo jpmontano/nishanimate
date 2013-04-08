@@ -15,6 +15,8 @@ Ahaaw.
 
 Current project members:
 
+Kevin Scannell
 https://github.com/kscanne
 
+John Paul Montano
 https://github.com/jpmontano
