@@ -5,11 +5,9 @@ https://github.com/jpmontano/nishanimate
 
 Aanii/Hello :)
 
-NishAnimate converts Nishnaabemwin text into animatable mark-up for use in the video-exporting Blender/Python side of this project.
+NishAnimate converts Nishnaabemwin text into animatable mark-up for use in the video-exporting Blender/Python side of this application.
 
-NishAnimate is only one part of a larger, more general natural-language-agnostic form of the app, https://github.com/jpmontano/nlpanimate 
-
-There'll be more details to come. I'm still figuring out how to get around github.
+NishAnimate is part of a more general natural-language-agnostic form of the application, https://github.com/jpmontano/nlpanimate
 
 Ahaaw.
 
@@ -18,7 +16,6 @@ http://barbaranolan.com
 
 
 --------------------------------------
-
 Current project members:
 
 Kevin Scannell
