@@ -1,7 +1,13 @@
 
-otw.dic: na1.txt ni1.txt
+otw.dic: na1.txt ni1.txt nca.txt nci.txt
 	cat na1.txt | sed 's/$$/\/NG\tpo:na/' > $@
 	cat na1.txt | sed 's/$$/ag/' | perl syncope.pl | sed 's/ag$$/\/XA\tpo:na/' >> $@
+	cat na1.txt | sed 's/$$/ag/' | perl syncope.pl | sed 's/ag$$/enh\/NG\tpo:na is:contemp/' >> $@
+	cat na1.txt | sed 's/$$/ag/' | perl syncope.pl | sed 's/ag$$/eny\/XA\tpo:na is:contemp/' >> $@
+	cat na1.txt | sed 's/$$/ag/' | perl syncope.pl | sed 's/ag$$/ens\/NG\tpo:na is:dim/' >> $@
+	cat na1.txt | sed 's/$$/ag/' | perl syncope.pl | sed 's/ag$$/ens\/XA\tpo:na is:dim/' >> $@
+	cat nca.txt | sed 's/$$/\/NG\tpo:na is:contemp/' >> $@
+	cat nca.txt | sed 's/h$$/y\/XA\tpo:na is:contemp/' >> $@
 	sed -i "1s/.*/`cat $@ | wc -l`\n&/" $@
 	#egrep ',1,I' nouns.csv | sed 's/,.*/an/' | perl syncope.pl >> $@
 	#egrep ',2,A' nouns.csv | sed 's/,.*/g/' >> $@
@@ -34,6 +40,12 @@ na5.txt: nouns.csv
 
 ni5.txt: nouns.csv
 	egrep ',5,I' nouns.csv | sed 's/,.*//' > $@
+
+nca.txt: nouns.csv
+	egrep ',C,A' nouns.csv | sed 's/,.*//' > $@
+
+nci.txt: nouns.csv
+	egrep ',C,I' nouns.csv | sed 's/,.*//' > $@
 
 synctest: FORCE
 	cat synctest.txt | sed 's/ .*//' > tempin.txt
