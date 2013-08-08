@@ -13,7 +13,7 @@ PFX	G	0	g/Z	.	ip:poss2
 PFX	W	Y	1
 PFX	W	0	w/Z	.	ip:poss3
 
-SFX A	Y	60
+SFX A	Y	71
 SFX	A	0	ag	[^y]	is:pl
 SFX	A	0	ig	y	is:pl
 SFX	A	0	an	[^y]	is:obv
