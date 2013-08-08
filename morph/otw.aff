@@ -14,13 +14,18 @@ PFX	W	Y	1
 PFX	W	0	w/Z	.	ip:poss3
 
 SFX A	Y	60
-SFX	A	0	ag	.	is:pl
-SFX	A	0	an	.	is:obv
-SFX	A	0	ish	.	is:pej
+SFX	A	0	ag	[^y]	is:pl
+SFX	A	0	ig	y	is:pl
+SFX	A	0	an	[^y]	is:obv
+SFX	A	0	in	y	is:obv
+SFX	A	0	ish	[^s]	is:pej
+SFX	A	0	ish	[^n]s	is:pej
+SFX	A	s	zhish	ns	is:pej
 SFX	A	0	ing	.	is:loc
 SFX	A	0	im/ZN	.	is:poss1s
 SFX	A	0	im/ZG	.	is:poss2s
-SFX	A	0	an/ZW	.	is:poss3s
+SFX	A	0	an/ZW	[^y]	is:poss3s
+SFX	A	0	in/ZW	y	is:poss3s
 SFX	A	0	iman/ZW	.	is:poss3s
 SFX	A	0	inaan/ZN	.	is:poss1pexcl
 SFX	A	0	imnaan/ZN	.	is:poss1pexcl
@@ -30,11 +35,14 @@ SFX	A	0	iwaa/ZG	.	is:poss2p
 SFX	A	0	imwaa/ZG	.	is:poss2p
 SFX	A	0	iwaan/ZW	.	is:poss3p
 SFX	A	0	imwaan/ZW	.	is:poss3p
-SFX	A	0	ag/ZN	.	is:poss1s is:pl
+SFX	A	0	ag/ZN	[^y]	is:poss1s is:pl
+SFX	A	0	ig/ZN	y	is:poss1s is:pl
 SFX	A	0	imag/ZN	.	is:poss1s is:pl
-SFX	A	0	ag/ZG	.	is:poss2s is:pl
+SFX	A	0	ag/ZG	[^y]	is:poss2s is:pl
+SFX	A	0	ig/ZG	y	is:poss2s is:pl
 SFX	A	0	imag/ZG	.	is:poss2s is:pl
-SFX	A	0	an/ZW	.	is:poss3s is:pl
+SFX	A	0	an/ZW	[^y]	is:poss3s is:pl
+SFX	A	0	in/ZW	y	is:poss3s is:pl
 SFX	A	0	iman/ZW	.	is:poss3s is:pl
 SFX	A	0	inaanig/ZN	.	is:poss1pexcl is:pl
 SFX	A	0	imnaanig/ZN	.	is:poss1pexcl is:pl
@@ -44,11 +52,14 @@ SFX	A	0	iwaan/ZG	.	is:poss2p is:pl
 SFX	A	0	imwaan/ZG	.	is:poss2p is:pl
 SFX	A	0	iwaan/ZW	.	is:poss3p is:pl
 SFX	A	0	imwaan/ZW	.	is:poss3p is:pl
-SFX	A	0	an/ZN	.	is:poss1s is:obv
+SFX	A	0	an/ZN	[^y]	is:poss1s is:obv
+SFX	A	0	in/ZN	y	is:poss1s is:obv
 SFX	A	0	iman/ZN	.	is:poss1s is:obv
-SFX	A	0	an/ZG	.	is:poss2s is:obv
+SFX	A	0	an/ZG	[^y]	is:poss2s is:obv
+SFX	A	0	in/ZG	y	is:poss2s is:obv
 SFX	A	0	iman/ZG	.	is:poss2s is:obv
-SFX	A	0	an/ZW	.	is:poss3s is:obv
+SFX	A	0	an/ZW	[^y]	is:poss3s is:obv
+SFX	A	0	in/ZW	y	is:poss3s is:obv
 SFX	A	0	iman/ZW	.	is:poss3s is:obv
 SFX	A	0	ni/ZW	.	is:poss3s is:obvposs is:obv
 SFX	A	0	imni/ZW	.	is:poss3s is:obvposs is:obv
