@@ -1,0 +1,57 @@
+waagosh  st:waagosh po:na
+
+waagshag  st:waagsh po:na is:pl
+
+waagshan  st:waagsh po:na is:obv
+
+waagshish  st:waagsh po:na is:pej
+
+waagshing  st:waagsh po:na is:loc
+
+nwaagosh  ip:poss1 st:waagosh po:na
+
+nwaagshim ip:poss1  st:waagsh po:na is:poss1s
+
+gwaagosh  ip:poss2 st:waagosh po:na
+
+gwaagshim ip:poss2  st:waagsh po:na is:poss2s
+
+wwaagshan ip:poss3  st:waagsh po:na is:poss3s is:obv
+wwaagshan ip:poss3  st:waagsh po:na is:poss3s is:pl
+wwaagshan ip:poss3  st:waagsh po:na is:poss3s
+
+wwaagshiwaan ip:poss3  st:waagsh po:na is:poss3p is:obv
+wwaagshiwaan ip:poss3  st:waagsh po:na is:poss3p is:pl
+wwaagshiwaan ip:poss3  st:waagsh po:na is:poss3p
+
+gwaagshimwaan ip:poss2  st:waagsh po:na is:poss2p is:obv
+gwaagshimwaan ip:poss2  st:waagsh po:na is:poss2p is:pl
+
+nwaagshan ip:poss1  st:waagsh po:na is:poss1s is:obv
+
+gwaagshiman ip:poss2  st:waagsh po:na is:poss2s is:obv
+
+wwaagshimni ip:poss3  st:waagsh po:na is:poss3s is:obvposs is:obv
+
+wwaagshni ip:poss3  st:waagsh po:na is:poss3s is:obvposs is:obv
+
+waagoshan
+
+waagsh
+
+nwaagsh
+
+gwaagsh
+
+nwaagoshan
+
+gwaagshiwaang ip:poss2  st:waagsh po:na is:poss2p is:loc
+
+wwaagshiwaang ip:poss3  st:waagsh po:na is:poss3p is:loc
+
+nwaagshing ip:poss1  st:waagsh po:na is:poss1s is:loc
+
+nwaagshinaaning ip:poss1  st:waagsh po:na is:poss1pexcl is:loc
+
+waagshiwaang
+
