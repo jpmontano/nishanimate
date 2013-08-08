@@ -1,2 +1,75 @@
 SET UTF-8
 WORDCHARS -'
+
+CIRCUMFIX Z
+
+PFX	N	Y	1
+PFX	N	0	n/Z	.	ip:poss1
+
+PFX	G	Y	1
+PFX	G	0	g/Z	.	ip:poss2
+
+PFX	W	Y	1
+PFX	W	0	w/Z	.	ip:poss3
+
+SFX A	Y	60
+SFX	A	0	ag	.	is:pl
+SFX	A	0	an	.	is:obv
+SFX	A	0	ish	.	is:pej
+SFX	A	0	ing	.	is:loc
+SFX	A	0	im/ZN	.	is:poss1s
+SFX	A	0	im/ZG	.	is:poss2s
+SFX	A	0	an/ZW	.	is:poss3s
+SFX	A	0	iman/ZW	.	is:poss3s
+SFX	A	0	inaan/ZN	.	is:poss1pexcl
+SFX	A	0	imnaan/ZN	.	is:poss1pexcl
+SFX	A	0	inaan/ZG	.	is:poss1pincl
+SFX	A	0	imnaan/ZG	.	is:poss1pincl
+SFX	A	0	iwaa/ZG	.	is:poss2p
+SFX	A	0	imwaa/ZG	.	is:poss2p
+SFX	A	0	iwaan/ZW	.	is:poss3p
+SFX	A	0	imwaan/ZW	.	is:poss3p
+SFX	A	0	ag/ZN	.	is:poss1s is:pl
+SFX	A	0	imag/ZN	.	is:poss1s is:pl
+SFX	A	0	ag/ZG	.	is:poss2s is:pl
+SFX	A	0	imag/ZG	.	is:poss2s is:pl
+SFX	A	0	an/ZW	.	is:poss3s is:pl
+SFX	A	0	iman/ZW	.	is:poss3s is:pl
+SFX	A	0	inaanig/ZN	.	is:poss1pexcl is:pl
+SFX	A	0	imnaanig/ZN	.	is:poss1pexcl is:pl
+SFX	A	0	inaanig/ZG	.	is:poss1pincl is:pl
+SFX	A	0	imnaanig/ZG	.	is:poss1pincl is:pl
+SFX	A	0	iwaan/ZG	.	is:poss2p is:pl
+SFX	A	0	imwaan/ZG	.	is:poss2p is:pl
+SFX	A	0	iwaan/ZW	.	is:poss3p is:pl
+SFX	A	0	imwaan/ZW	.	is:poss3p is:pl
+SFX	A	0	an/ZN	.	is:poss1s is:obv
+SFX	A	0	iman/ZN	.	is:poss1s is:obv
+SFX	A	0	an/ZG	.	is:poss2s is:obv
+SFX	A	0	iman/ZG	.	is:poss2s is:obv
+SFX	A	0	an/ZW	.	is:poss3s is:obv
+SFX	A	0	iman/ZW	.	is:poss3s is:obv
+SFX	A	0	ni/ZW	.	is:poss3s is:obvposs is:obv
+SFX	A	0	imni/ZW	.	is:poss3s is:obvposs is:obv
+SFX	A	0	inaanin/ZN	.	is:poss1pexcl is:obv
+SFX	A	0	imnaanin/ZN	.	is:poss1pexcl is:obv
+SFX	A	0	inaanin/ZG	.	is:poss1pincl is:obv
+SFX	A	0	imnaanin/ZG	.	is:poss1pincl is:obv
+SFX	A	0	iwaan/ZG	.	is:poss2p is:obv
+SFX	A	0	imwaan/ZG	.	is:poss2p is:obv
+SFX	A	0	iwaan/ZW	.	is:poss3p is:obv
+SFX	A	0	imwaan/ZW	.	is:poss3p is:obv
+SFX	A	0	ing/ZN	.	is:poss1s is:loc
+SFX	A	0	iming/ZN	.	is:poss1s is:loc
+SFX	A	0	ing/ZG	.	is:poss2s is:loc
+SFX	A	0	iming/ZG	.	is:poss2s is:loc
+SFX	A	0	ing/ZW	.	is:poss3s is:loc
+SFX	A	0	iming/ZW	.	is:poss3s is:loc
+SFX	A	0	inaaning/ZN	.	is:poss1pexcl is:loc
+SFX	A	0	imnaaning/ZN	.	is:poss1pexcl is:loc
+SFX	A	0	inaaning/ZG	.	is:poss1pincl is:loc
+SFX	A	0	imnaaning/ZG	.	is:poss1pincl is:loc
+SFX	A	0	iwaang/ZG	.	is:poss2p is:loc
+SFX	A	0	imwaang/ZG	.	is:poss2p is:loc
+SFX	A	0	iwaang/ZW	.	is:poss3p is:loc
+SFX	A	0	imwaang/ZW	.	is:poss3p is:loc
