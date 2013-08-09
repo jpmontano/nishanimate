@@ -55,3 +55,7 @@ nwaagshinaaning ip:poss1  st:waagsh po:na is:poss1pexcl is:loc
 
 waagshiwaang
 
+zhiishiibag  st:zhiishiib po:na is:pl
+
+mkoonsag  st:mkoons po:na is:pl
+
