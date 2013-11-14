@@ -9,7 +9,7 @@ NishAnimate is a mobile app which will, first, convert audio-synchronized Nishna
 
 It is hoped that this series of moving images, synchronized with the audio, will make the audio understandable to a listener who is also watching the animations.
 
-NishAnimate is part of a more general natural-language-agnostic form of the application, https://github.com/jpmontano/nlpanimate
+NishAnimate is part of a more general natural-language-agnostic form of the application NLPAnimate, https://github.com/jpmontano/nlpanimate
 
 
 John Paul Montano
