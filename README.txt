@@ -3,7 +3,7 @@ NishAnimate
 
 https://github.com/jpmontano/nishanimate
 
-Aanii/Hello :)
+Aanii/Hello -
 
 NishAnimate is a mobile app which will, first, convert audio-synchronized Nishnaabemwin text into animatable markup. The markup will then be used by the app to produce a series of animated images (animated GIFs is the tentative plan) which will display in sync with the audio file.
 
