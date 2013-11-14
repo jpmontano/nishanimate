@@ -1,15 +1,14 @@
-nishanimate
+NishAnimate
 ===========
 
 https://github.com/jpmontano/nishanimate
 
 Aanii/Hello :)
 
-NishAnimate converts Nishnaabemwin text into animatable mark-up for use in the video-exporting Blender/Python side of this application.
+NishAnimate is a mobile app which will, first, convert audio-synchronized Nishnaabemwin text into animatable mark-up. The markup will then be used by the app to produce a series of animated images (animated GIFs is the tentative plan) which will display in sync with the audio file. It is hoped that this series of moving images, synchronized with the audio, will make the audio understandable to a listener who is also watching the animations.
 
 NishAnimate is part of a more general natural-language-agnostic form of the application, https://github.com/jpmontano/nlpanimate
 
-Ahaaw.
 
 John Paul Montano
 http://barbaranolan.com
