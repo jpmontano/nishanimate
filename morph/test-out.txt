@@ -25,7 +25,6 @@ wwaagshiwaan ip:poss3  st:waagsh po:na is:poss3p is:pl
 wwaagshiwaan ip:poss3  st:waagsh po:na is:poss3p
 
 gwaagshimwaan ip:poss2  st:waagsh po:na is:poss2p is:obv
-gwaagshimwaan ip:poss2  st:waagsh po:na is:poss2p is:pl
 
 nwaagshan ip:poss1  st:waagsh po:na is:poss1s is:obv
 
@@ -58,4 +57,40 @@ waagshiwaang
 zhiishiibag  st:zhiishiib po:na is:pl
 
 mkoonsag  st:mkoons po:na is:pl
+
+aamoo  st:aamoo po:na
+
+aamoog  st:aamoo po:na is:pl
+
+aamoon  st:aamoo po:na is:obv
+
+aamoong  st:aamoo po:na is:loc
+
+naamoo  ip:poss1 st:aamoo po:na
+
+naamoom ip:poss1  st:aamoo po:na is:poss1s
+
+naamoonaan ip:poss1  st:aamoo po:na is:poss1pexcl
+
+naamoominaan ip:poss1  st:aamoo po:na is:poss1pexcl
+
+gaamoominaan ip:poss2  st:aamoo po:na is:poss1pincl
+
+naamoomag ip:poss1  st:aamoo po:na is:poss1s is:pl
+
+gaamoomag ip:poss2  st:aamoo po:na is:poss2s is:pl
+
+waamooman ip:poss3  st:aamoo po:na is:poss3s is:obv
+waamooman ip:poss3  st:aamoo po:na is:poss3s is:pl
+waamooman ip:poss3  st:aamoo po:na is:poss3s
+
+gaamoomiwaag ip:poss2  st:aamoo po:na is:poss2p is:pl
+
+waamoomiwaan ip:poss3  st:aamoo po:na is:poss3p is:obv
+waamoomiwaan ip:poss3  st:aamoo po:na is:poss3p is:pl
+waamoomiwaan ip:poss3  st:aamoo po:na is:poss3p
+
+gaamoomiwaan ip:poss2  st:aamoo po:na is:poss2p is:obv
+
+waamoomiwaang ip:poss3  st:aamoo po:na is:poss3p is:loc
 
