@@ -66,31 +66,31 @@ aamoon  st:aamoo po:na is:obv
 
 aamoong  st:aamoo po:na is:loc
 
-naamoo  ip:poss1 st:aamoo po:na
+ndaamoo  ip:poss1 st:aamoo po:na
 
-naamoom ip:poss1  st:aamoo po:na is:poss1s
+ndaamoom ip:poss1  st:aamoo po:na is:poss1s
 
-naamoonaan ip:poss1  st:aamoo po:na is:poss1pexcl
+ndaamoonaan ip:poss1  st:aamoo po:na is:poss1pexcl
 
-naamoominaan ip:poss1  st:aamoo po:na is:poss1pexcl
+ndaamoominaan ip:poss1  st:aamoo po:na is:poss1pexcl
 
-gaamoominaan ip:poss2  st:aamoo po:na is:poss1pincl
+gdaamoominaan ip:poss2  st:aamoo po:na is:poss1pincl
 
-naamoomag ip:poss1  st:aamoo po:na is:poss1s is:pl
+ndaamoomag ip:poss1  st:aamoo po:na is:poss1s is:pl
 
-gaamoomag ip:poss2  st:aamoo po:na is:poss2s is:pl
+gdaamoomag ip:poss2  st:aamoo po:na is:poss2s is:pl
 
-waamooman ip:poss3  st:aamoo po:na is:poss3s is:obv
-waamooman ip:poss3  st:aamoo po:na is:poss3s is:pl
-waamooman ip:poss3  st:aamoo po:na is:poss3s
+wdaamooman ip:poss3  st:aamoo po:na is:poss3s is:obv
+wdaamooman ip:poss3  st:aamoo po:na is:poss3s is:pl
+wdaamooman ip:poss3  st:aamoo po:na is:poss3s
 
-gaamoomiwaag ip:poss2  st:aamoo po:na is:poss2p is:pl
+gdaamoomiwaag ip:poss2  st:aamoo po:na is:poss2p is:pl
 
-waamoomiwaan ip:poss3  st:aamoo po:na is:poss3p is:obv
-waamoomiwaan ip:poss3  st:aamoo po:na is:poss3p is:pl
-waamoomiwaan ip:poss3  st:aamoo po:na is:poss3p
+wdaamoomiwaan ip:poss3  st:aamoo po:na is:poss3p is:obv
+wdaamoomiwaan ip:poss3  st:aamoo po:na is:poss3p is:pl
+wdaamoomiwaan ip:poss3  st:aamoo po:na is:poss3p
 
-gaamoomiwaan ip:poss2  st:aamoo po:na is:poss2p is:obv
+gdaamoomiwaan ip:poss2  st:aamoo po:na is:poss2p is:obv
 
-waamoomiwaang ip:poss3  st:aamoo po:na is:poss3p is:loc
+wdaamoomiwaang ip:poss3  st:aamoo po:na is:poss3p is:loc
 
