@@ -4,14 +4,39 @@ WORDCHARS -'
 CIRCUMFIX Z
 NEEDAFFIX X
 
-PFX	N	Y	1
-PFX	N	0	n/Z	.	ip:poss1
+# possessive person prefix, first person
+# Valentine p. 199: "Prefixes attached to stems beginning with a vowel
+# have a linking element /d/..."
+# Also, we're including "reanalyzed" prefixes here as well, see
+# Valentine p. 62ff, p. 199.
+PFX	N	Y	7
+PFX	N	0	n/Z	[^aeiou]	ip:poss1
+PFX	N	0	nd/Z	[aeiu]	ip:poss1
+PFX	N	0	nd/Z	oo	ip:poss1
+PFX	N	0	ndo/Z	o[^o]	ip:poss1
+PFX	N	0	ndi-/Z	.	ip:poss1
+PFX	N	0	nda-/Z	.	ip:poss1
+PFX	N	0	ndoo-/Z	.	ip:poss1
 
-PFX	G	Y	1
-PFX	G	0	g/Z	.	ip:poss2
+# possessive person prefix, second person
+PFX	G	Y	7
+PFX	G	0	g/Z	[^aeiou]	ip:poss2
+PFX	G	0	gd/Z	[aeiu]	ip:poss2
+PFX	G	0	gd/Z	oo	ip:poss2
+PFX	G	0	gdo/Z	o[^o]	ip:poss2
+PFX	G	0	gdi-/Z	.	ip:poss2
+PFX	G	0	gda-/Z	.	ip:poss2
+PFX	G	0	gdoo-/Z	.	ip:poss2
 
-PFX	W	Y	1
-PFX	W	0	w/Z	.	ip:poss3
+# possessive person prefix, third person
+PFX	W	Y	7
+PFX	W	0	w/Z	[^aeiou]	ip:poss3
+PFX	W	0	wd/Z	[aeiu]	ip:poss3
+PFX	W	0	wd/Z	oo	ip:poss3
+PFX	W	0	wdo/Z	o[^o]	ip:poss3
+PFX	W	0	wdi-/Z	.	ip:poss3
+PFX	W	0	wda-/Z	.	ip:poss3
+PFX	W	0	wdoo-/Z	.	ip:poss3
 
 # animate nouns
 SFX A	Y	307
