@@ -94,3 +94,19 @@ gdaamoomiwaan ip:poss2  st:aamoo po:na is:poss2p is:obv
 
 wdaamoomiwaang ip:poss3  st:aamoo po:na is:poss3p is:loc
 
+ndoogmaa  ip:poss1 st:ogmaa po:na
+
+ndoogmaam ip:poss1  st:ogmaa po:na is:poss1s
+
+gdoogmaa  ip:poss2 st:ogmaa po:na
+
+gdoogmaam ip:poss2  st:ogmaa po:na is:poss2s
+
+wdoogmaan ip:poss3  st:ogmaa po:na is:poss3s is:obv
+wdoogmaan ip:poss3  st:ogmaa po:na is:poss3s is:pl
+wdoogmaan ip:poss3  st:ogmaa po:na is:poss3s
+
+wdoogmaaman ip:poss3  st:ogmaa po:na is:poss3s is:obv
+wdoogmaaman ip:poss3  st:ogmaa po:na is:poss3s is:pl
+wdoogmaaman ip:poss3  st:ogmaa po:na is:poss3s
+
