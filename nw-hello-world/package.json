@@ -1,0 +1,24 @@
+{
+	"main": "html/index.html",
+    "name": "nishanimate",
+
+    "window": {
+        "title": "NishAnimate",
+        "icon": "images/nishanimate.png",
+        "toolbar": false,
+        "frame": true,
+        "width": 600,
+        "height": 300,
+        "position": "center",
+        "min_width": 400,
+        "min_height": 200,
+        "max_width": 800,
+        "max_height": 600
+    },
+    "webkit": {
+        "plugin": false // Whether to load external
+                        // browser plugins like
+                        // like Flash player;
+                        // defaults to false.
+    }
+}
