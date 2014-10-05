@@ -1,4 +1,4 @@
-## Introduction
+## NishAnimate
 Aanii/Hello -
 
 NishAnimate is a desktop application built with `node-webkit`. NishAnimate will, first, convert audio-synchronized Nishnaabe-language text into animatable markup. The markup will then be used by the application to produce a series of animated images which will display in sync with the audio file.
@@ -6,6 +6,9 @@ NishAnimate is a desktop application built with `node-webkit`. NishAnimate will,
 It is hoped that this series of moving images, synchronized with the audio, will make the audio understandable to a listener who is also watching the animations.
 
 NishAnimate is part of a more general natural-language-agnostic form of the application NLPAnimate, https://github.com/jpmontano/nlpanimate
+
+## Features
+* [features will be listed here]
 
 
 ## Current project members:
@@ -18,8 +21,8 @@ John Paul Montano
 
 
 ## Downloads
-* **v0.0.0** (October 4, 2014)
+* NishAnimate **v0.0.0** (October 4, 2014)
 
  * Mac 10.7+: [32bit](http://nishanimate.com/v0.0.0/nishanimate-v0.0.0-osx-32bit.app.zip) / [64bit](http://nishanimate.com/v0.0.0/nishanimate-v0.0.0-osx-64bit.app.zip)
- * Linux: 32bit / 64bit
- * Windows: win32
+ * Linux: 32bit / 64bit [NishAnimate Linux version will be appear here]
+ * Windows: win32 [NishAnimate Windows version to be downloadable from here]
