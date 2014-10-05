@@ -8,7 +8,7 @@ It is hoped that this series of moving images, synchronized with the audio, will
 NishAnimate is part of a more general natural-language-agnostic form of the application NLPAnimate, https://github.com/jpmontano/nlpanimate
 
 ## Features
-* [features will be listed here]
+* [NishAnimate features will be listed here]
 
 
 ## Current project members:
