@@ -4,16 +4,14 @@
 
     "window": {
         "title": "NishAnimate",
-        "icon": "images/nishanimate.png",
+        "icon": "./images/nishanimate.png",
         "toolbar": false,
         "frame": true,
-        "width": 600,
-        "height": 300,
+        "width": 1000,
+        "height": 600,
         "position": "center",
         "min_width": 400,
-        "min_height": 200,
-        "max_width": 800,
-        "max_height": 600
+        "min_height": 200
     },
     "webkit": {
         "plugin": false // Whether to load external
