@@ -18,7 +18,7 @@ NishAnimate is built with `node-webkit`, and is [to be] available for Mac, Windo
 
 
 ## Screenshots
-* [Pics of NishAnimate doing actual work will appear here eventually]
+* [Pics of NishAnimate doing actual work will appear here]
 
 
 ## Current project members:
