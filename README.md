@@ -10,7 +10,7 @@ It is expected that this series of moving images, synchronized with the audio, w
 
 NishAnimate is part of a more general natural-language-agnostic form of the application NLPAnimate, https://github.com/jpmontano/nlpanimate
 
-NishAnimate is built with `node-webkit`, and is [to be] available for Mac, Windows, and Linux.
+NishAnimate is built with `node-webkit`, and is [to be] available for Mac OS X, Windows, and Linux.
 
 
 ## Features
@@ -33,6 +33,6 @@ John Paul Montano
 ## Downloads
 * **NishAnimate v0.0.0** (October 4, 2014)
 
- * Mac 10.7+: [64bit](http://nishanimate.com/v0.0.0/nishanimate-v0.0.0-osx-64bit.app.zip)
+ * Mac OS X 10.7+: [64bit](http://nishanimate.com/v0.0.0/nishanimate-v0.0.0-osx-64bit.app.zip)
  * Linux: 32bit / 64bit [NishAnimate Linux versions will be appear here]
  * Windows: 32bit (i.e., win32) [NishAnimate Windows version to be downloadable from here]
