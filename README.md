@@ -35,4 +35,4 @@ John Paul Montano
 
  * Mac 10.7+: [64bit](http://nishanimate.com/v0.0.0/nishanimate-v0.0.0-osx-64bit.app.zip)
  * Linux: 32bit / 64bit [NishAnimate Linux versions will be appear here]
- * Windows: win32 [NishAnimate Windows version to be downloadable from here]
+ * Windows: 32bit (i.e., win32) [NishAnimate Windows version to be downloadable from here]
