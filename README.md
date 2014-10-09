@@ -8,8 +8,6 @@ NishAnimate will, first, convert user-submitted audio-synchronized Nishnaabe-lan
 
 It is expected that this series of moving images, synchronized with the audio, will make the audio understandable to a listener who is also watching the animations.
 
-NishAnimate is part of a more general natural-language-agnostic form of the application NLPAnimate, https://github.com/jpmontano/nlpanimate
-
 NishAnimate is built with `node-webkit`, and is [to be] available for Mac OS X, Windows, and Linux.
 
 
