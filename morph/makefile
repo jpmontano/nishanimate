@@ -1,5 +1,5 @@
 
-otw.dic: na1.txt ni1.txt na2.txt ni2.txt na3.txt ni3.txt nca.txt nci.txt
+otw.dic: na1.txt ni1.txt na2.txt ni2.txt na3.txt ni3.txt na5.txt ni5.txt nca.txt nci.txt
 	cat na1.txt | sed 's/$$/\/NG\tpo:na/' > $@
 	egrep '!' na2.txt | tr -d '!' | perl syncope.pl | sed 's/$$/\tpo:na/' >> $@
 	egrep -v '!' na2.txt | sed 's/$$/\/NG\tpo:na/' >> $@
@@ -70,6 +70,6 @@ testupdate: FORCE
 	cat test-in.txt | hunspell -d ./otw -m > test-out.txt
 
 clean:
-	rm -f otw.dic plurals.txt na1.txt ni1.txt
+	rm -f otw.dic plurals.txt na1.txt ni1.txt na2.txt na3.txt nca.txt nci.txt ni2.txt ni3.txt
 
 FORCE:
