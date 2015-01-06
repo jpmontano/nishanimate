@@ -3,7 +3,7 @@ otw.dic: na1.txt ni1.txt na2.txt ni2.txt na3.txt ni3.txt nca.txt nci.txt
 	cat na1.txt | sed 's/$$/\/NG\tpo:na/' > $@
 	egrep '!' na2.txt | tr -d '!' | perl syncope.pl | sed 's/$$/\tpo:na/' >> $@
 	egrep -v '!' na2.txt | sed 's/$$/\/NG\tpo:na/' >> $@
-	egrep '!' na2.txt | tr -d '!' | sed 's/^/o/' | perl syncope.pl | sed 's/^o//' | sed 's/$$/\/NG\tpo:na/' >> $@
+	egrep '!' na2.txt | tr -d '!' | sed 's/^/o/' | perl syncope.pl | sed 's/^o//' | sed 's/$$/\/XNG\tpo:na/' >> $@
 	cat na1.txt | sed 's/$$/ag/' | perl syncope.pl | sed 's/ag$$/\/XA\tpo:na/' >> $@
 	cat na2.txt | tr -d '!' | sed 's/^/o/' | perl syncope.pl | sed 's/^o//' | sed 's/$$/\/XA\tpo:na/' >> $@
 	cat na1.txt | sed 's/$$/ag/' | perl syncope.pl | sed 's/ag$$/enh\/NG\tpo:na is:contemp/' >> $@
