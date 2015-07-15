@@ -8,7 +8,7 @@ NishAnimate will, first, convert user-submitted audio-synchronized Nishnaabe-lan
 
 It is expected that this series of moving images, synchronized with the audio, will make the audio understandable to a listener who is also watching the animations.
 
-NishAnimate is built with [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [Qt 5.5](https://en.wikipedia.org/wiki/Qt_(software)), and works on Linux, Mac OS X, Windows.
+NishAnimate is built with [C++](https://en.wikipedia.org/wiki/C%2B%2B) and [Qt](https://en.wikipedia.org/wiki/Qt_(software)), and works on Linux, Mac OS X, Windows.
 
 
 ## Features
