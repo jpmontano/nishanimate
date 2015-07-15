@@ -1,6 +1,6 @@
 # NishAnimate
 
-**NishAnimate is a desktop app which produces animated images to help make Nishnaabe-language audio and text understandable.**
+**NishAnimate is a desktop app which produces animated images to help make Nishnaabe-language audio and text more understandable.**
 
 ## Introduction
 
