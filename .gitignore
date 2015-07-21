@@ -5,4 +5,4 @@
 *.pro.user
 
 #Qt directories
-build-NishAnimate-Qt*
+build-*
